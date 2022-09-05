@@ -1,0 +1,3 @@
+module adminEscuela {
+	exports ejemplos;
+}
